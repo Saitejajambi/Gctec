@@ -26,7 +26,7 @@
       tags: extract
     - name: clone a github repository
       git:
-        repo: https://github.com/vk2118/pet_shop.git
+        repo: https://github.com/saitejajambi/pet_shop.git
         dest: /root/petshop
         clone: yes
         update: yes
